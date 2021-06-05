@@ -1,0 +1,30 @@
+apex                      		0.1                      
+cython                    		0.29.21                 
+easydict                  		1.9                      
+faiss-gpu                 		1.6.5                   
+ftfy                      		5.9                        
+ignite                    		1.1.0                   
+matplotlib                	3.3.4                    
+metric-learn             	0.6.2                  
+mkl                       		2021.2.0                   
+opencv-python        	4.5.1.48                   
+python                    		3.7.9                 
+pytorch-ignite         		0.4.4                  
+pytorch-lightning    		1.1.6                
+scikit-image             	0.18.1                 
+scikit-learn              		0.24.1                  
+scipy                     		1.6.0                  
+setuptools               		51.3.3           
+tensorboard            		2.4.1                    
+tensorboard-logger        	0.1.0                   
+tk                        		8.6.10              
+tokenizers                	0.9.2                   
+torch                     		1.6.0                   
+torchvision               	0.7.0                    
+tqdm                      		4.49.0                   
+transformers              	3.4.0     
+
+
+
+
+
