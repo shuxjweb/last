@@ -1,7 +1,6 @@
 # LaST: Large-Scale Spatio-Temporal Person Re-identification
-
+[[Project]](https://sites.google.com/view/personreid) [[Paper]](https://arxiv.org/pdf/2105.15076.pdf)
 This repository contains the source code for loading the **LaST** dataset and evaluating its generalization. 
-The paper is available at: [[Paper](https://arxiv.org/pdf/2105.15076.pdf)] 
 
 ## Details
 **LaST** is a large-scale dataset with more than **228k** pedestrian images. It is used to study the scenario that pedestrians have a large activity scope and time span. Although collected from movies, we have selected suitable frames and labeled them as carefully as possible.
