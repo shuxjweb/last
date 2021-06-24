@@ -1,4 +1,4 @@
-# LaST: Large-Scale Spatio-Temporal Person Re-identification
+## LaST: Large-Scale Spatio-Temporal Person Re-identification
 
 ![](last.jpg)
 
