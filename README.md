@@ -1,5 +1,8 @@
 # LaST: Large-Scale Spatio-Temporal Person Re-identification
+![](last.jpg)
+
 [[Project]](https://sites.google.com/view/personreid) [[Paper]](https://arxiv.org/pdf/2105.15076.pdf)
+
 This repository contains the source code for loading the **LaST** dataset and evaluating its generalization. 
 
 ## Details
