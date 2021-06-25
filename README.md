@@ -26,7 +26,7 @@ This repository contains the source code for loading the **LaST** dataset and ev
 
 #### Direct Transfer
 
-| Training Set   | PRCC  | Celeb-reID |
+| Training Set   | PRCC  || Celeb-reID| |
 |                | R1 | mAP  | R1 | mAP |
 |----------|----------|----------|----------|----------|
 | ImageNet | 94.8% | 86.6% | 77.2% | 65.6% |
