@@ -13,7 +13,7 @@ This repository contains the source code for loading the **LaST** dataset and ev
 * **Val**:   **56** identities and **21,379** images.
 * **Test**:  **5806** identities and **135,529** images.
 
-**Note**: You can download LaST from this link: [LaST](https://pan.baidu.com/s/1uwT4XkH9TGzJ2ovgZ23fyA) with passward: **vvfe**.
+**Note**: You can download LaST from baidupan: [LaST](https://pan.baidu.com/s/1uwT4XkH9TGzJ2ovgZ23fyA) with passward: **vvfe**. or [Googledrive](https://drive.google.com/file/d/1too-EZBj0oAQP6XFpKIHQv_emudJZvzs/view?usp=sharing) or [Onedrive](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EXbOBtNhAOxOnonHYCjwdTUBOsW73qkrb1i2f5_ZFyVO9w?e=TFKM3C)
 
 ## Prerequisites
 
