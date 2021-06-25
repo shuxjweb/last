@@ -35,7 +35,15 @@ This repository contains the source code for loading the **LaST** dataset and ev
 | MSMT17        | 26.2% | 24.6% | 43.4% | 5.0% |
 | LaST          | 39.3% | 32.6% | 47.0% | 7.0% |
 
-  
+1. Put the pre-trained model in the folder "pre_feat". For example, last_ini_imagenet.pth.
+2. Modify the model name as follows:
+```
+last_model_wts = torch.load(os.path.join('pre_feat', 'last_ini_imagenet.pth'))
+```
+3. Start Testing
+```
+python prcc_train_base_last.py --train 0 --data_dir /data/prcc/ --logs_dir ./pre_feat
+```  
     
     
 
