@@ -73,4 +73,31 @@ python prcc_train_base_last.py --train 0 --data_dir /data/prcc/ --logs_dir ./pre
 python prcc_train_base_last.py --train 1 --data_dir /data/prcc/ --logs_dir ./20210205_prcc_base_last_sgd
 ```  
     
+#### Citation
+Please kindly cite this paper in your publications if it helps your research:
+```bibtex
+@article{shu2021large,
+  title={Large-Scale Spatio-Temporal Person Re-identification: Algorithm and Benchmark},
+  author={Shu, Xiujun and Wang, Xiao and Zhang, Shiliang and Zhang, Xianghao and Chen, Yuanqi and Li, Ge and Tian, Qi},
+  journal={arXiv preprint arXiv:2105.15076},
+  year={2021}
+}
+```
+ 
+#### Related Work
+We forked the projects in [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch), [fast-reid](https://github.com/JDAI-CV/fast-reid), [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) and [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thank the authors for their great work.
+
+#### License
+The dataset and code are released for academic research use only.
+
+
+
+
+
+
+
+
+
+
+
 
