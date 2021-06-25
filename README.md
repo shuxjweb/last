@@ -26,18 +26,18 @@ This repository contains the source code for loading the **LaST** dataset and ev
 
 #### Direct Transfer
 
-| Training Set   | PRCC  || Celeb-reID| |
-|                | R1 | mAP  | R1 | mAP |
+| Training Set   | PRCC  | Celeb-reID |
 |----------|----------|----------|----------|----------|
-| ImageNet | 94.8% | 86.6% | 77.2% | 65.6% |
-| Market1501    | 86.0% | 74.8% | 52.3% | 61.1% |
+|                | R1 | mAP  | R1 | mAP |
+| ImageNet      | 24.7% | 13.5% | 28.7% | 3.0% |
+| Market1501    | 29.0% | 24.3% | 36.7% | 3.7% |
+| DukeMTMC      | 28.3% | 24.1% | 40.9% | 4.6% |
+| MSMT17        | 26.2% | 24.6% | 43.4% | 5.0% |
+| LaST          | 39.3% | 32.6% | 47.0% | 7.0% |
 
-
-
-
-
-
-
+  
+    
+    
 
 
 
