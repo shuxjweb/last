@@ -36,7 +36,10 @@ This repository contains the source code for loading the **LaST** dataset and ev
 | LaST          | 39.3% | 32.6% | 47.0% | 7.0% |
 
 1. Put the pre-trained model in the folder "pre_feat". For example, last_ini_imagenet.pth.
-2. Modify the model name as follows:
+```
+./pre_feat/last_ini_imagenet.pth
+```
+2. Modify the loaded model name as follows:
 ```
 last_model_wts = torch.load(os.path.join('pre_feat', 'last_ini_imagenet.pth'))
 ```
@@ -45,8 +48,24 @@ last_model_wts = torch.load(os.path.join('pre_feat', 'last_ini_imagenet.pth'))
 python prcc_train_base_last.py --train 0 --data_dir /data/prcc/ --logs_dir ./pre_feat
 ```  
     
+#### Domain Adaptation
+
+| Pre-Training   | PRCC |     | Celeb-reID |   |
+|----------|----------|----------|----------|----------|
+|                | R1 | mAP  | R1 | mAP |
+| ImageNet      | 43.1% | 41.3% | 49.2% | 8.7% |
+| Market1501    | 44.3% | 43.1% | 49.3% | 8.7% |
+| DukeMTMC      | 43.9% | 44.2% | 49.8% | 8.9% |
+| MSMT17        | 43.7% | 44.1% | 51.0% | 9.0% |
+| LaST          | 54.4% | 54.3% | 56.1% | 11.7% |    
+
+1. Put the pre-trained model in the folder "pre_feat". For example, last_ini_imagenet.pth.
+```
+./pre_feat/last_ini_imagenet.pth
+```
+2. Start Training
+```
+python prcc_train_base_last.py --train 1 --data_dir /data/prcc/ --logs_dir ./20210205_prcc_base_last_sgd
+```  
     
-
-
-
 
