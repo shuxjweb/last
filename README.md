@@ -78,7 +78,7 @@ Please kindly cite this paper in your publications if it helps your research:
 ```bibtex
 @article{shu2021large,
   title={Large-Scale Spatio-Temporal Person Re-identification: Algorithm and Benchmark},
-  author={Shu, Xiujun and Wang, Xiao and Zhang, Xianghao and Zhang, Shiliang and Chen, Yuanqi and Li, Ge and Tian, Qi},
+  author={Shu, Xiujun and Wang, Xiao and Zang, Xianghao and Zhang, Shiliang and Chen, Yuanqi and Li, Ge and Tian, Qi},
   journal={arXiv preprint arXiv:2105.15076},
   year={2021}
 }
