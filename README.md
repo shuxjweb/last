@@ -7,7 +7,7 @@
 This repository contains the source code for loading the **LaST** dataset and evaluating its generalization. 
 
 ## Details
-**LaST** is a large-scale dataset with more than **228k** pedestrian images. It is used to study the scenario that pedestrians have a large activity scope and time span. Although collected from movies, we have selected suitable frames and labeled them as carefully as possible. Besides the identity label, we also labeled the clothes of pedestrians in training set.
+**LaST** is a large-scale dataset with more than **228k** pedestrian images. It is used to study the scenario that pedestrians have a large activity scope and time span. Although collected from movies, we have selected suitable frames and labeled them as carefully as possible. Besides the identity label, we also labeled the clothes of pedestrians in the training set.
 
 * **Train**: **5000** identities and **71,248** images.
 * **Val**:   **56** identities and **21,379** images.
@@ -88,7 +88,7 @@ Please kindly cite this paper in your publications if it helps your research:
 We forked the projects in [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch), [fast-reid](https://github.com/JDAI-CV/fast-reid), [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) and [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thank the authors for their great work.
 
 ## License
-The dataset and code are released for academic research use only.
+The dataset and code are released for academic research use only. If you have questions, please contact [shuxj@pcl.ac.cn]
 
 
 
