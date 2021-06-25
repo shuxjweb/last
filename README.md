@@ -29,7 +29,6 @@ This repository contains the source code for loading the **LaST** dataset and ev
 | Training Set   | PRCC |     | Celeb-reID |   |
 |----------|----------|----------|----------|----------|
 |                | R1 | mAP  | R1 | mAP |
-|----------|----------|----------|----------|----------|
 | ImageNet      | 24.7% | 13.5% | 28.7% | 3.0% |
 | Market1501    | 29.0% | 24.3% | 36.7% | 3.7% |
 | DukeMTMC      | 28.3% | 24.1% | 40.9% | 4.6% |
