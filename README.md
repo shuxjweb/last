@@ -23,6 +23,11 @@ This repository contains the source code for loading the **LaST** dataset and ev
 - Cuda10.2
 
 ## Experiments
+#### Train LaST with BoT
+```
+python last_train_bot.py --train 1 --data_dir /data/last/ --logs_dir ./20210407_last_bot_base
+```
+
 
 #### Direct Transfer
 
