@@ -88,7 +88,7 @@ Please kindly cite this paper in your publications if it helps your research:
 We forked the projects in [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch), [fast-reid](https://github.com/JDAI-CV/fast-reid), [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid) and [reid-strong-baseline](https://github.com/michuanhaohao/reid-strong-baseline). Thank the authors for their great work.
 
 ## License
-The dataset and code are released for academic research use only. If you have questions, please contact [shuxj@pcl.ac.cn](shuxj@pcl.ac.cn)
+The dataset and code are released for academic research use only. If you have questions, please contact [shuxj@mail.ioa.ac.cn](shuxj@mail.ioa.ac.cn)
 
 
 
