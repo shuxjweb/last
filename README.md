@@ -79,7 +79,8 @@ Please kindly cite this paper in your publications if it helps your research:
 @article{shu2021large,
   title={Large-Scale Spatio-Temporal Person Re-identification: Algorithm and Benchmark},
   author={Shu, Xiujun and Wang, Xiao and Zang, Xianghao and Zhang, Shiliang and Chen, Yuanqi and Li, Ge and Tian, Qi},
-  journal={arXiv preprint arXiv:2105.15076},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  pages={1-14},
   year={2021}
 }
 ```
