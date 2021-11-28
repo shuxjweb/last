@@ -52,11 +52,11 @@ class LaST(BaseDataset):
       --------------------------------------
       subset         | # ids     | # images
       --------------------------------------
-      train          |  5000     |    70923
+      train          |  5000     |    71248
       query          |    56     |      100
-      gallery        |    57     |    20484
-      query_test     |  5803     |    10173
-      gallery_test   |  5805     |   123041
+      gallery        |    56     |    21279
+      query_test     |  5805     |    10176
+      gallery_test   |  5806     |   125353
     """
     dataset_dir = ""
 
